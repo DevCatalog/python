@@ -1,0 +1,4 @@
+# Ignore Python environment
+.venv/
+# Ignore IDE settings
+.idea/
