@@ -27,6 +27,7 @@ Below is a tree structure of the topics covered in the course. Click on each top
   - [12 - Integers, Floats, and Complex Numbers](https://www.youtube.com/watch?v=sn7YrwkbGl0)
   - [13 - Booleans](https://www.youtube.com/watch?v=LeztpVDeAug)
   - [14 - Strings](https://www.youtube.com/watch?v=pT0yf6HKWzk)
+  - [15 - None](https://www.youtube.com/watch?v=AQh4RnHYlJQ)
   - [...]()
  
 ## Course Status
